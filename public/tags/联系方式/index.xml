@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>联系方式 on 我的博客</title>
+    <link>http://localhost:58462/tags/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F/</link>
+    <description>Recent content in 联系方式 on 我的博客</description>
+    <generator>Hugo -- 0.155.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 15 Jan 2024 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:58462/tags/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于我</title>
+      <link>http://localhost:58462/about/</link>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:58462/about/</guid>
+      <description>关于作者的个人介绍、专业领域和联系方式</description>
+    </item>
+  </channel>
+</rss>

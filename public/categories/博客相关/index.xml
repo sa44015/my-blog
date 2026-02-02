@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>博客相关 on 我的博客</title>
+    <link>http://localhost:58462/categories/%E5%8D%9A%E5%AE%A2%E7%9B%B8%E5%85%B3/</link>
+    <description>Recent content in 博客相关 on 我的博客</description>
+    <generator>Hugo -- 0.155.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 15 Jan 2024 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:58462/categories/%E5%8D%9A%E5%AE%A2%E7%9B%B8%E5%85%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>欢迎来到我的博客</title>
+      <link>http://localhost:58462/posts/first-post/</link>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:58462/posts/first-post/</guid>
+      <description>介绍博客的创建目的、内容和未来计划</description>
+    </item>
+  </channel>
+</rss>

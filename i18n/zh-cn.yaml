@@ -1,0 +1,184 @@
+# 中文国际化文件
+# PaperMod主题的中文翻译
+
+# 通用
+- id: prev
+  translation: "上一篇"
+- id: next
+  translation: "下一篇"
+- id: read_time
+  translation:
+    one: "{{ .Count }} 分钟阅读"
+    other: "{{ .Count }} 分钟阅读"
+- id: words
+  translation:
+    one: "{{ .Count }} 字"
+    other: "{{ .Count }} 字"
+- id: toc
+  translation: "目录"
+- id: translations
+  translation: "翻译"
+- id: home
+  translation: "首页"
+- id: edit_post
+  translation: "编辑文章"
+- id: copy
+  translation: "复制"
+- id: copied
+  translation: "已复制"
+- id: share
+  translation: "分享"
+- id: powered_by
+  translation: "由 {{ .Site.Title }} 提供支持"
+
+# 搜索
+- id: search
+  translation: "搜索"
+- id: search_results
+  translation: "搜索结果"
+- id: search_placeholder
+  translation: "输入关键词搜索..."
+- id: no_results
+  translation: "没有找到相关结果"
+
+# 归档
+- id: archives
+  translation: "归档"
+- id: archive_title
+  translation: "{{ .Count }} 篇文章"
+- id: archive_posts
+  translation: "文章"
+
+# 分类和标签
+- id: categories
+  translation: "分类"
+- id: tags
+  translation: "标签"
+- id: category
+  translation: "分类"
+- id: tag
+  translation: "标签"
+- id: series
+  translation: "系列"
+- id: posts
+  translation: "文章"
+
+# 分页
+- id: page
+  translation: "第 {{ .PageNumber }} 页，共 {{ .TotalPages }} 页"
+- id: prev_page
+  translation: "上一页"
+- id: next_page
+  translation: "下一页"
+
+# 评论
+- id: comments
+  translation: "评论"
+- id: leave_comment
+  translation: "发表评论"
+- id: name
+  translation: "姓名"
+- id: email
+  translation: "邮箱"
+- id: website
+  translation: "网站"
+- id: message
+  translation: "留言"
+- id: send
+  translation: "发送"
+- id: loading
+  translation: "加载中..."
+
+# 错误页面
+- id: 404_title
+  translation: "页面未找到"
+- id: 404_message
+  translation: "抱歉，您访问的页面不存在或已被移动。"
+- id: go_home
+  translation: "返回首页"
+
+# 主题切换
+- id: theme
+  translation: "主题"
+- id: light
+  translation: "亮色"
+- id: dark
+  translation: "暗色"
+- id: auto
+  translation: "自动"
+
+# 阅读时间
+- id: min_read
+  translation: "分钟阅读"
+
+# 分享按钮
+- id: share_to
+  translation: "分享到"
+- id: twitter
+  translation: "Twitter"
+- id: facebook
+  translation: "Facebook"
+- id: linkedin
+  translation: "LinkedIn"
+- id: reddit
+  translation: "Reddit"
+- id: telegram
+  translation: "Telegram"
+- id: whatsapp
+  translation: "WhatsApp"
+- id: email_share
+  translation: "邮件"
+
+# 面包屑
+- id: breadcrumb_home
+  translation: "首页"
+- id: breadcrumb_separator
+  translation: "›"
+
+# 代码相关
+- id: copy_code
+  translation: "复制代码"
+- id: expand_code
+  translation: "展开代码"
+- id: collapse_code
+  translation: "收起代码"
+
+# 文章元数据
+- id: posted
+  translation: "发布于"
+- id: updated
+  translation: "更新于"
+- id: author
+  translation: "作者"
+- id: related_posts
+  translation: "相关文章"
+
+# 订阅
+- id: subscribe
+  translation: "订阅"
+- id: rss_feed
+  translation: "RSS订阅"
+
+# 页脚
+- id: copyright
+  translation: "© {{ now.Format \"2006\" }} {{ .Site.Title }}. 保留所有权利。"
+- id: made_with
+  translation: "使用 {{ .Hugo }} 构建"
+- id: theme_by
+  translation: "主题: {{ .Theme }}"
+
+# 菜单项（与hugo.toml中的菜单对应）
+- id: menu_home
+  translation: "首页"
+- id: menu_posts
+  translation: "文章"
+- id: menu_archives
+  translation: "归档"
+- id: menu_categories
+  translation: "分类"
+- id: menu_tags
+  translation: "标签"
+- id: menu_about
+  translation: "关于"
+- id: menu_search
+  translation: "搜索"

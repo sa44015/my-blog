@@ -2,18 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on 我的博客</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:58462/posts/</link>
     <description>Recent content in Posts on 我的博客</description>
     <generator>Hugo -- 0.155.1</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 02 Feb 2026 15:42:34 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:58462/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>http://localhost:58462/posts/my-first-post/</link>
       <pubDate>Mon, 02 Feb 2026 15:42:34 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>http://localhost:58462/posts/my-first-post/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>My Hello world Post</title>
+      <link>http://localhost:58462/posts/new-temp/</link>
+      <pubDate>Mon, 02 Feb 2026 15:42:34 +0800</pubDate>
+      <guid>http://localhost:58462/posts/new-temp/</guid>
+      <description>&lt;p&gt;这是一个新文章我们试试看
+现在是 0202。18：10&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hugo使用技巧与最佳实践</title>
+      <link>http://localhost:58462/posts/hugo-tips-and-tricks/</link>
+      <pubDate>Sat, 20 Jan 2024 14:30:00 +0800</pubDate>
+      <guid>http://localhost:58462/posts/hugo-tips-and-tricks/</guid>
+      <description>详细介绍Hugo的高级功能、配置技巧和性能优化方法</description>
+    </item>
+    <item>
+      <title>欢迎来到我的博客</title>
+      <link>http://localhost:58462/posts/first-post/</link>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:58462/posts/first-post/</guid>
+      <description>介绍博客的创建目的、内容和未来计划</description>
     </item>
   </channel>
 </rss>
